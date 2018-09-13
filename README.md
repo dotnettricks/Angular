@@ -9,3 +9,8 @@ AngularJS is an open-source JavaScript framework to create single-page applicati
 In previous article, you have learned about AngularJS Form Validation with Bootstrap. This article will demonstrate, how to create an HTML5 app with CRUD (Create, Read, Update, Delete) Operations using AngularJS, WebAPI, Entity Framework code first and Bootstrap.
 
 Link : https://www.dotnettricks.com/learn/angularjs/angularjs-crud-operations-with-webapi-ef-and-bootstrap
+
+### CRUD Operations with AngularJS, RequireJS and WebAPI
+AngularJS is most popular MVW Javascript framework for single page application development. Also, Visual Studio is the best IDE in world to develop your app using JavaScript framework which you love.
+
+Link : https://www.dotnettricks.com/learn/angularjs/crud-operations-with-angularjs-requirejs-and-webapi
